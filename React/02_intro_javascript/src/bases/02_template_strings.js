@@ -1,5 +1,4 @@
 // Template Strings
-
 const name = "Diego";
 const lastName = "Linares";
 

@@ -1,5 +1,3 @@
-
-
 const person = {
 	name: "Diego",
 	lastName: "Linares",

@@ -1,5 +1,3 @@
-
-
 // Arrays en JS
 // const array = new Array( 100 );
 const array = [ 1, 2, 3, 4 ];
